@@ -1,24 +1,24 @@
 # Bienvenidos al Cloudera Day en Inacap
 
-Ambiente: https://login.cdpworkshops.cloudera.com/auth/realms/field-marketing-emea/protocol/saml/clients/cdp-sso
-Usuario:
-Contraseña:
+Ambiente: https://login.cdpworkshops.cloudera.com/auth/realms/field-marketing-emea/protocol/saml/clients/cdp-sso  
+Usuario:  
+Contraseña:  
 
 
-Git CDW: 
+Git CDW:  
 
-Git CML:
+Git CML:  
 
-requirements.txt
+requirements.txt  
 
-git+https://github.com/fastforwardlabs/cmlbootstrap#egg=cmlbootstrap
-seaborn==0.9.0
-dill==0.3.1.1 
-lime==0.1.1.36 
-scikit-learn==0.21.3 
-xlrd==1.2.0
-pandas==0.25.1
-numpy==1.17.3
-flask==2.1.0
-py4j==0.10.9
-itsdangerous==2.0.1
+git+https://github.com/fastforwardlabs/cmlbootstrap#egg=cmlbootstrap  
+seaborn==0.9.0  
+dill==0.3.1.1   
+lime==0.1.1.36   
+scikit-learn==0.21.3   
+xlrd==1.2.0  
+pandas==0.25.1  
+numpy==1.17.3  
+flask==2.1.0  
+py4j==0.10.9  
+itsdangerous==2.0.1  
