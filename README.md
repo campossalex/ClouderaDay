@@ -1,8 +1,8 @@
 # Bienvenidos al Cloudera Day en Inacap
 
-Ambiente: https://login.cdpworkshops.cloudera.com/auth/realms/field-marketing-emea/protocol/saml/clients/cdp-sso  
-Usuario:  user001-user050  
-Contraseña:  G0yvxvdms5srhyKF  
+Ambiente: **  
+Usuario:  **  
+Contraseña:  **  
 
 Git CDW:  https://github.com/frothkoetter/cdw  
 
