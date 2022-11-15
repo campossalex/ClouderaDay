@@ -4,8 +4,7 @@ Ambiente: https://login.cdpworkshops.cloudera.com/auth/realms/field-marketing-em
 Usuario:  
 Contraseña:  
 
-
-Git CDW:  
+Git CDW:  https://github.com/frothkoetter/cdw  
 
 Git CML:  https://github.com/fastforwardlabs/cml_churn_demo_mlops  
 
