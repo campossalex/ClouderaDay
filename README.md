@@ -7,7 +7,7 @@ Contraseña:
 
 Git CDW:  
 
-Git CML:  
+Git CML:  https://github.com/fastforwardlabs/cml_churn_demo_mlops  
 
 requirements.txt  
 
